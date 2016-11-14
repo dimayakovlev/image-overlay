@@ -18,45 +18,45 @@ The image overlay example contains the following basic HTML markup.
    <div class="container">
       <div class="row">
          <div class="col-md-12">
-            <h2>Lorem Ipsum Dolor</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In eros nibh, interdum interdum rutrum eget, eleifend at libero.</p>
+            <h2>A New Approach to Business</h2>
+            <p>WebCorpCo has what it takes to show the world you mean business.</p>
          </div>
          <div class="row">
             <ul>
                <li class="col-xs-6 col-md-4 work-tiles-items">
-                  <img src="https://placeholdit.imgix.net/~text?txtsize=52&txt=Image&w=553&h=439" alt="Zeina">
+                  <img src="https://www.solodev.com/core/fileparse.php/374/urlt/slide-1.png" alt="Zeina">
                   <div class="text-overlay hidden-xs">
-                     <span>Zeina</span>
+                     <span>Marketing</span>
                   </div>
                </li>
                <li class="col-xs-6 col-md-4 work-tiles-items">
-                  <img src="https://placeholdit.imgix.net/~text?txtsize=52&txt=Image&w=553&h=439" alt="Logic +">
+                  <img src="https://www.solodev.com/core/fileparse.php/374/urlt/slide-2.png" alt="Logic +">
                   <div class="text-overlay hidden-xs">
-                     <span>Logic +</span>
+                     <span>Sales</span>
                   </div>
                </li>
                <li class="col-xs-6 col-md-4 work-tiles-items">
-                  <img src="https://placeholdit.imgix.net/~text?txtsize=52&txt=Image&w=553&h=439" alt="SoftTech">
+                  <img src="https://www.solodev.com/core/fileparse.php/374/urlt/slide-3.png" alt="SoftTech">
                   <div class="text-overlay hidden-xs">
-                     <span>SoftTech</span>
+                     <span>Design</span>
                   </div>
                </li>
                <li class="col-xs-6 col-md-4 work-tiles-items">
-                  <img src="https://placeholdit.imgix.net/~text?txtsize=52&txt=Image&w=553&h=439" alt="3Designs">
+                  <img src="https://www.solodev.com/core/fileparse.php/374/urlt/slide-4.png" alt="3Designs">
                   <div class="text-overlay hidden-xs">
-                     <span>3Designs</span>
+                     <span>Programming</span>
                   </div>
                </li>
                <li class="col-xs-6 col-md-4 work-tiles-items">
-                  <img src="https://placeholdit.imgix.net/~text?txtsize=52&txt=Image&w=553&h=439" alt="DevTech">
+                  <img src="https://www.solodev.com/core/fileparse.php/374/urlt/slide-5.png" alt="DevTech">
                   <div class="text-overlay hidden-xs">
-                     <span>DevTech</span>
+                     <span>Support</span>
                   </div>
                </li>
                <li class="col-xs-6 col-md-4 work-tiles-items">
-                  <img src="https://placeholdit.imgix.net/~text?txtsize=52&txt=Image&w=553&h=439" alt="Chartz">
+                  <img src="https://www.solodev.com/core/fileparse.php/374/urlt/slide-6.png" alt="Chartz">
                   <div class="text-overlay hidden-xs">
-                     <span>Chartz</span>
+                     <span>Training</span>
                   </div>
                </li>
             </ul>
