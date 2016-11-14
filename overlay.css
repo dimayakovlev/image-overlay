@@ -1,0 +1,43 @@
+section.work-tiles .work-tiles-items {
+    padding: 0;
+    background-color: #c81486;
+    cursor: pointer;
+    list-style: none;
+}
+section.work-tiles .work-tiles-items img {
+    width: 100%;
+}
+img {
+    display: inline-block;
+    max-width: 100%;
+    vertical-align: middle;
+}
+section.work-tiles .text-overlay {
+    background-color: rgba(200,20,134,1);
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    color: #fff;
+    opacity: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 100;
+}
+section.work-tiles .work-tiles-items span {
+    padding: 34px;
+    color: #fff;
+    position: absolute;
+    bottom: -4px;
+    left: 0;
+    font-size: 40px;
+    line-height: 40px;
+    text-align: left;
+    text-transform: uppercase;
+}
+section.work-tiles {
+    padding: 50px 15px 70px;
+    text-align: center;
+}
+section.work-tiles .work-tiles-items:hover .text-overlay {
+    opacity: 1;
+}
